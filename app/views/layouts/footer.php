@@ -1,1 +1,0 @@
-<footer><small>Copyright &copy; <?= date('Y') ?>, My Awesome Site</small></footer>

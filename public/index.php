@@ -1,5 +1,7 @@
-<?php
-  require_once '../config.php';
-  require_once '../app/run.php';
-  $iniciar = new Core;
-  ?>
+<?PHP
+	//Carga el iniciador.php de la carpeta app
+	require_once '../app/iniciardor.php';
+
+	//instanciar la clase controlador
+
+	$iniciar = new Core;
